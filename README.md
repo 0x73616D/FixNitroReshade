@@ -11,4 +11,4 @@ Este script soluciona el error que ocurre al activar el nitro de un vehículo, e
 - SA-MP R1 (NO PROBADO EN OTRAS VERSIONES)
   
 ## ☄️ Instalación:
-Para adquirir este script contacta conmigo en mi discord: [Aquí](https://discord.com/users/717764929113030756)
+Para adquirir este script contacta conmigo en mi discord: [Aquí](https://discord.com/users/1246311073204670540)
